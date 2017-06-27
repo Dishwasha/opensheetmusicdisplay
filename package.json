@@ -89,7 +89,7 @@
     "tsify": "^3.0.0",
     "tslint": "^5.0.0",
     "typedoc": "^0.7.0",
-    "typescript": "^2.2.2"
+    "typescript": "^2.4.1"
   },
   "config": {
     "commitizen": {
